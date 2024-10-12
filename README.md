@@ -1,2 +1,2 @@
 # BIEngine
-BIEngine: YooAssets + UniTask + R3 + VContainter
+BIEngine: YooAssets + UniTask + R3 + VContainter + HybridCLR
